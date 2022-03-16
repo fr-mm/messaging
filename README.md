@@ -1,7 +1,7 @@
-#What is this?
+# What is this?
 A study about messaging patterns.
 
-#Installing
+# Installing
 
 1.Install 
 [python-poetry](https://python-poetry.org/docs/master/#installing-with-the-official-installer)
@@ -12,11 +12,14 @@ dependency manager.
 poetry install
 ```
 
-#Running
+# Running tests
 
 1.Run virtual environment:
 ```
 poetry shell
 ```
 
-2.(TBD)
+2.Run all tests
+```
+pytest
+```
