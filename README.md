@@ -5,16 +5,16 @@ A study about messaging patterns.
 
 1.Install 
 [python-poetry](https://python-poetry.org/docs/master/#installing-with-the-official-installer)
-dependency manager.
+dependency manager
 
-2.Install dependencies: 
+2.Install dependencies
 ```
 poetry install
 ```
 
 # Running tests
 
-1.Run virtual environment:
+1.Run virtual environment
 ```
 poetry shell
 ```
